@@ -4,7 +4,8 @@ VERSION = "0.2"
 def banner():
     # >>> KONFLIKTBEREICH: Hier werden zwei Personen
     # gleichzeitig ändern <<<
-    return "Mini-Toolkit v0.2 - Welcome"
+      return "Mini-Toolkit v0.2 - Hello/Willkommen!"
+
 
 if __name__ == "__main__":
     print(banner())
